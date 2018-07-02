@@ -24,3 +24,8 @@ body{
 #navBar{
     border-bottom: 3px solid black;
 }
+
+#simple{
+    float: left;
+    width: 70%;
+}
